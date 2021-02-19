@@ -1,0 +1,30 @@
+{
+	"produts":[
+		{
+		"name":"realme 5s",
+		"image":"img/realme-5s.PNG",
+		"price":"12000",
+		"dprice":"10000"
+		},{
+		"name":"redmi note8",
+		"image":"img/REDMI NOTE8.png",
+		"price":"12000",
+		"dprice":"10000"
+		},{
+		"name":"vivo y15",
+		"image":"img/vivo1200_ap.png",
+		"price":"19000",
+		"dprice":"16000"
+		},{
+		"name":"redmi note7",
+		"image":"img/REDMI NOTE7.png",
+		"price":"12000",
+		"dprice":"10000"
+		},{
+		"name":"samsung A21",
+		"image":"img/download.jpg",
+		"price":"19000",
+		"dprice":"16000"
+		}
+	]
+}
